@@ -11,6 +11,7 @@
     <AutoCompleteTextView
         android:id="@+id/searchAction"
         android:layout_width="match_parent"
+        android:textColor="@color/teal_200"
         android:layout_height="wrap_content"
         android:completionHint="Select an Area"
         android:completionThreshold="0"
